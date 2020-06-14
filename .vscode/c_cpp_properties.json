@@ -6,6 +6,7 @@
                 "${workspaceFolder}/**",
                 "F:/windows-ex/GitHub/audio-encode-decode/encode_decode_opus/ogg/include/",
                 "F:/windows-ex/GitHub/audio-encode-decode/encode_decode_opus/opusfile-0.9/include/",
+                "${workspaceRoot}/ffmpeg-4-2-3/libavutil/",
                 "F:/windows-ex/GitHub/audio-encode-decode/encode_decode_opus/ffmpeg-4-2-3/libavutil/"
             ],
             "defines": [
