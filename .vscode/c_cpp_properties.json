@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:/windows-ex/GitHub/audio-encode-decode/encode_decode_opus/ogg/include/",
+                "F:/windows-ex/GitHub/audio-encode-decode/encode_decode_opus/opusfile-0.9/include/",
+                "F:/windows-ex/GitHub/audio-encode-decode/encode_decode_opus/ffmpeg-4-2-3/libavutil/"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:\\MinGW-w64\\mingw64\\bin\\g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "go2sh.cmake-integration"
+        }
+    ],
+    "version": 4
+}
